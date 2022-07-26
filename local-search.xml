@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>VSCode插件</title>
+    <link href="/2022/07/01/VSCode/VSCode%E6%8F%92%E4%BB%B6/"/>
+    <url>/2022/07/01/VSCode/VSCode%E6%8F%92%E4%BB%B6/</url>
+    
+    <content type="html"><![CDATA[<h2 id="1-Chinese-Simplified-简体中文-Language-Pack-for-Visual-Studio-Code"><a href="#1-Chinese-Simplified-简体中文-Language-Pack-for-Visual-Studio-Code" class="headerlink" title="1. Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code"></a>1. Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code</h2><ul><li>简体中文语言包</li></ul><h2 id="2-Vuter"><a href="#2-Vuter" class="headerlink" title="2. Vuter"></a>2. Vuter</h2><ul><li>Vue2.x 开发配套插件</li></ul><h2 id="3-Vue-Language-Features（Volar）"><a href="#3-Vue-Language-Features（Volar）" class="headerlink" title="3. Vue Language Features（Volar）"></a>3. Vue Language Features（Volar）</h2><ul><li>Vue3.x 开发配套插件</li></ul><h2 id="4-ESLint"><a href="#4-ESLint" class="headerlink" title="4. ESLint"></a>4. ESLint</h2><ul><li>脚本代码检查</li></ul><h2 id="5-Git-History"><a href="#5-Git-History" class="headerlink" title="5. Git History"></a>5. Git History</h2><ul><li>查看Git提交历史记录</li></ul><h2 id="6-Live-Server"><a href="#6-Live-Server" class="headerlink" title="6. Live Server"></a>6. Live Server</h2><ul><li>本地搭建临时服务器，实现实时预览</li></ul><h2 id="7-Open-in-Browser"><a href="#7-Open-in-Browser" class="headerlink" title="7. Open in Browser"></a>7. Open in Browser</h2><ul><li>快速通过浏览器打开</li></ul><h2 id="8-Material-Icon-Theme"><a href="#8-Material-Icon-Theme" class="headerlink" title="8. Material Icon Theme"></a>8. Material Icon Theme</h2><ul><li>文件图标</li></ul><h2 id="9-Auto-Rename-Tag"><a href="#9-Auto-Rename-Tag" class="headerlink" title="9. Auto Rename Tag"></a>9. Auto Rename Tag</h2><ul><li>重命名一个HTML &#x2F; XML标签时，自动重命名配对的HTML &#x2F; XML标签</li></ul><h2 id="10-GitHub-Copilot"><a href="#10-GitHub-Copilot" class="headerlink" title="10. GitHub Copilot"></a>10. GitHub Copilot</h2><ul><li>AI编程辅助</li></ul><h2 id="11-koroFileHeader"><a href="#11-koroFileHeader" class="headerlink" title="11. koroFileHeader"></a>11. koroFileHeader</h2><ul><li>用于一键生成文件头部注释并自动更新最后编辑人和编辑时间、函数注释自动生成和参数提取</li><li>快捷键<ul><li>头部注释：Ctrl + win + I</li><li>方法注释：Ctrl + win + T</li></ul></li><li>setting.json配置如下：<figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><code class="hljs json"><span class="hljs-attr">&quot;fileheader.customMade&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">&#123;</span><br>  <span class="hljs-attr">&quot;Descripttion&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;&quot;</span><span class="hljs-punctuation">,</span><br>  <span class="hljs-attr">&quot;Author&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;陈金辉&quot;</span><span class="hljs-punctuation">,</span><br>  <span class="hljs-attr">&quot;Date&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Do not edit&quot;</span><span class="hljs-punctuation">,</span><br>  <span class="hljs-attr">&quot;LastEditors&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;陈金辉&quot;</span><span class="hljs-punctuation">,</span><br>  <span class="hljs-attr">&quot;LastEditTime&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Do not Edit&quot;</span><br><span class="hljs-punctuation">&#125;</span><span class="hljs-punctuation">,</span><br><span class="hljs-attr">&quot;fileheader.cursorMode&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">&#123;</span><br>  <span class="hljs-attr">&quot;description&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;&quot;</span><span class="hljs-punctuation">,</span><br>  <span class="hljs-attr">&quot;param&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;&quot;</span><span class="hljs-punctuation">,</span><br>  <span class="hljs-attr">&quot;return&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;&quot;</span><br><span class="hljs-punctuation">&#125;</span><br></code></pre></td></tr></table></figure></li></ul><h2 id="12-Markdown-All-in-One"><a href="#12-Markdown-All-in-One" class="headerlink" title="12. Markdown All in One"></a>12. Markdown All in One</h2><ul><li>特点<ul><li>提供常用快捷键</li><li>支持预览</li><li>支持目录</li><li>可轻松转换为html文件和pdf文件</li></ul></li><li>常用快捷建<ul><li>预览 Ctrl + Shift + V</li><li>粗体 Ctrl + B</li><li>斜体 Ctrl + I</li><li>删除线 Alt + S</li><li>切换数学环境 Ctrl + M</li><li>同步预览 Ctrl + Shift + V</li><li>检查任务列表项 Alt + C</li><li>格式化表格 Alt + shift + F</li><li>格式化任务列表 Alt + C</li></ul></li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>VSCode</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>VSCode</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
